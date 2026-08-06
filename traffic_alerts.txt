@@ -1,0 +1,8 @@
+CRITICAL ALERT: Extreme congestion at Junction J-101 (Score: 3658.54)
+SAFETY ALERT: Accident-prone zone at Junction J-101 (4 accidents)
+HEALTH ALERT: Severe pollution spike at Junction J-101 (Index: 88)
+CRITICAL ALERT: Extreme congestion at Junction J-103 (Score: 12833.33)
+SAFETY ALERT: Accident-prone zone at Junction J-103 (5 accidents)
+HEALTH ALERT: Severe pollution spike at Junction J-103 (Index: 92)
+CRITICAL ALERT: Extreme congestion at Junction J-105 (Score: 6000.00)
+SAFETY ALERT: Accident-prone zone at Junction J-105 (3 accidents)
