@@ -1,0 +1,47 @@
+[
+    {
+        "Faculty ID": "F003",
+        "Faculty Name": "Dr. Carol White",
+        "Department": "Computer Science",
+        "Research Score": 44.4,
+        "Requested Budget": 0.0,
+        "Allocated Grant": 0.0,
+        "Rank": 1
+    },
+    {
+        "Faculty ID": "F001",
+        "Faculty Name": "Dr. Alice Smith",
+        "Department": "Computer Science",
+        "Research Score": 39.1,
+        "Requested Budget": 120000.0,
+        "Allocated Grant": 78200.0,
+        "Rank": 2
+    },
+    {
+        "Faculty ID": "F005",
+        "Faculty Name": "Dr. Eva Green",
+        "Department": "Electrical Engineering",
+        "Research Score": 33.5,
+        "Requested Budget": 150000.0,
+        "Allocated Grant": 83750.0,
+        "Rank": 3
+    },
+    {
+        "Faculty ID": "F002",
+        "Faculty Name": "Dr. Bob Jones",
+        "Department": "Electrical Engineering",
+        "Research Score": 26.4,
+        "Requested Budget": 95000.0,
+        "Allocated Grant": 41800.0,
+        "Rank": 4
+    },
+    {
+        "Faculty ID": "F004",
+        "Faculty Name": "Dr. David Brown",
+        "Department": "Mechanical Engineering",
+        "Research Score": 17.5,
+        "Requested Budget": 110000.0,
+        "Allocated Grant": 32083.33,
+        "Rank": 5
+    }
+]
