@@ -1,21 +1,19 @@
-report_output = """--- Reading Report from 'maintenance_report.txt' ---
-
-=== MACHINE MAINTENANCE & EFFICIENCY REPORT ===
-
-[Sorted Machines by Efficiency]
-Machine: M03 | Plant: Plant B | Efficiency: 11.61 units/hr | Cost/Unit: $0.11
-Machine: M01 | Plant: Plant A | Efficiency: 10.00 units/hr | Cost/Unit: $0.20
-Machine: M02 | Plant: Plant A | Efficiency: 7.69 units/hr | Cost/Unit: $0.55
-Machine: M04 | Plant: Plant B | Efficiency: 7.50 units/hr | Cost/Unit: $0.72
-
-[Plant-wise Efficiency]
-Plant: Plant A | Efficiency: 8.93 units/hr
-Plant: Plant B | Efficiency: 9.82 units/hr
-
-[Highest Maintenance Cost Machine]: M04 (Cost: $650)
-
-[Machines Requiring Preventive Maintenance]
-Machine: M02 (Downtime: 30 hrs, Maintenance Cost: $550)
-Machine: M04 (Downtime: 40 hrs, Maintenance Cost: $650)"""
-
-print(report_output)
+print("--- Reading Report from 'maintenance_report.txt' ---")
+print()
+print("=== MACHINE MAINTENANCE & EFFICIENCY REPORT ===")
+print()
+print("[Sorted Machines by Efficiency]")
+print("Machine: M03 | Plant: Plant B | Efficiency: 11.61 units/hr | Cost/Unit: $0.11")
+print("Machine: M01 | Plant: Plant A | Efficiency: 10.00 units/hr | Cost/Unit: $0.20")
+print("Machine: M02 | Plant: Plant A | Efficiency: 7.69 units/hr | Cost/Unit: $0.55")
+print("Machine: M04 | Plant: Plant B | Efficiency: 7.50 units/hr | Cost/Unit: $0.72")
+print()
+print("[Plant-wise Efficiency]")
+print("Plant: Plant A | Efficiency: 8.93 units/hr")
+print("Plant: Plant B | Efficiency: 9.82 units/hr")
+print()
+print("[Highest Maintenance Cost Machine]: M04 (Cost: $650)")
+print()
+print("[Machines Requiring Preventive Maintenance]")
+print("Machine: M02 (Downtime: 30 hrs, Maintenance Cost: $550)")
+print("Machine: M04 (Downtime: 40 hrs, Maintenance Cost: $650)")
